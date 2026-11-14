@@ -34,7 +34,7 @@ Regression_lineaire/
 │   ├── livraisons_train_propre.csv
 │   └── livraisons_a_predire_500_propre.csv
 │
-└── outputs/
+└── data_predict/
     └── predictions_livraisons_500.csv
 ```
 
